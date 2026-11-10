@@ -1,0 +1,6 @@
+{
+  "name": "Ứng dụng Nhắc Tưới Cây & Độ Ẩm Đất",
+  "description": "Bản mẫu ứng dụng nhắc tưới cây và theo dõi độ ẩm đất cho đề tài Công nghệ kỹ thuật THCS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
